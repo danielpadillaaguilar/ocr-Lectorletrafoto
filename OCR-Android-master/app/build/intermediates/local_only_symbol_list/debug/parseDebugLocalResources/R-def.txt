@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color color_green
+color ic_launcherr_background
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_camera
+drawable ic_copy
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_send
+id btnSearch
+id btn_copy
+id btn_send
+id ic_scan
+id nestedScrollView
+id resultTextView
+id searchEditText
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+mipmap ic_launcherr
+mipmap ic_launcherr_foreground
+mipmap ic_launcherr_round
+raw loading
+string app_name
+string copy
+string share
+style Theme.AndroidSamples
+style rounded8

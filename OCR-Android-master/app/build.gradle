@@ -1,0 +1,46 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+}
+
+android {
+    namespace 'com.example.ocrapp'
+    compileSdk 34
+
+    buildFeatures {
+        viewBinding true
+    }
+
+    defaultConfig {
+
+        minSdk 21
+        applicationId "com.application.ocrapp"
+        versionCode 1
+        versionName "1.0"
+        versionName "1.0"
+    }
+
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+
+
+
+}
+
+dependencies {
+    implementation 'androidx.core:core-ktx:1.12.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.11.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'com.google.mlkit:text-recognition:16.0.0'
+    implementation "org.jetbrains.kotlin:kotlin-test:1.8.0"
+}
+
+

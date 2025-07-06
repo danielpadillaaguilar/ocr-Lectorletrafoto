@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-mdpi_ic_launcherr_foreground.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-mdpi\\ic_launcherr_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-anydpi-v26_ic_launcherr.xml.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-anydpi-v26\\ic_launcherr.xml"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\raw_loading.json.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\raw\\loading.json"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xhdpi_ic_launcherr_round.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xhdpi\\ic_launcherr_round.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xxhdpi_ic_launcherr_round.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xxhdpi\\ic_launcherr_round.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-hdpi_ic_launcherr_foreground.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-hdpi\\ic_launcherr_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ocrapp-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.ocrapp-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xxxhdpi_ic_launcherr_round.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xxxhdpi\\ic_launcherr_round.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-mdpi_ic_launcherr_round.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-mdpi\\ic_launcherr_round.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-mdpi_ic_launcherr.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-mdpi\\ic_launcherr.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\drawable_ic_copy.xml.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\drawable\\ic_copy.xml"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-hdpi_ic_launcherr.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-hdpi\\ic_launcherr.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-anydpi-v26_ic_launcherr_round.xml.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-anydpi-v26\\ic_launcherr_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xxhdpi_ic_launcherr.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xxhdpi\\ic_launcherr.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-hdpi_ic_launcherr_round.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-hdpi\\ic_launcherr_round.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xxxhdpi_ic_launcherr_foreground.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xxxhdpi\\ic_launcherr_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xxxhdpi_ic_launcherr.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xxxhdpi\\ic_launcherr.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xhdpi_ic_launcherr.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xhdpi\\ic_launcherr.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xxhdpi_ic_launcherr_foreground.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xxhdpi\\ic_launcherr_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-debug-33:\\mipmap-xhdpi_ic_launcherr_foreground.png.flat",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\mipmap-xhdpi\\ic_launcherr_foreground.png"
+    }
+]

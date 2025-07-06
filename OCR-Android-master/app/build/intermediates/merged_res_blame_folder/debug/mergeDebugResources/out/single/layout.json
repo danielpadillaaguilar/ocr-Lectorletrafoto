@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.ocrapp-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.ocrapp-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\contr\\.gradle\\daemon\\8.12\\com.example.ocrapp-main-35:\\layout\\activity_main.xml"
+    }
+]
